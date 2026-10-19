@@ -1,9 +1,0 @@
-{
-  "FolderOrderSettings":[],
-  "ResourceOrderSettings":[
-    {"name":"Object2","order":3,"path":"objects/Object2/Object2.yy",},
-    {"name":"oStrawHat","order":1,"path":"objects/oStrawHat/oStrawHat.yy",},
-    {"name":"sChristian","order":2,"path":"sprites/sChristian/sChristian.yy",},
-    {"name":"sStrawHat","order":4,"path":"sprites/sStrawHat/sStrawHat.yy",},
-  ],
-}
