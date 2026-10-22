@@ -1,4 +1,8 @@
 {
   "FolderOrderSettings":[],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"sKwebbel","order":2,"path":"sprites/sKwebbel/sKwebbel.yy",},
+    {"name":"sKwebbelPhase2","order":3,"path":"sprites/sKwebbelPhase2/sKwebbelPhase2.yy",},
+    {"name":"sSamAltman","order":1,"path":"sprites/sSamAltman/sSamAltman.yy",},
+  ],
 }
