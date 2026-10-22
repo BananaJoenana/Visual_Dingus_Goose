@@ -35,6 +35,7 @@
     {"id":{"name":"scrStory","path":"scripts/scrStory/scrStory.yy",},},
     {"id":{"name":"scrStoryCommands","path":"scripts/scrStoryCommands/scrStoryCommands.yy",},},
     {"id":{"name":"scrStoryEngine","path":"scripts/scrStoryEngine/scrStoryEngine.yy",},},
+    {"id":{"name":"Christian_Main_Character","path":"sprites/Christian_Main_Character/Christian_Main_Character.yy",},},
     {"id":{"name":"sAustin","path":"sprites/sAustin/sAustin.yy",},},
     {"id":{"name":"sChatGPT","path":"sprites/sChatGPT/sChatGPT.yy",},},
     {"id":{"name":"sChristian","path":"sprites/sChristian/sChristian.yy",},},
