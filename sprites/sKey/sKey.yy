@@ -1,27 +1,27 @@
 {
   "$GMSprite":"v2",
-  "%Name":"Christian_Main_Character",
+  "%Name":"sKey",
   "bboxMode":0,
-  "bbox_bottom":584,
-  "bbox_left":234,
-  "bbox_right":787,
-  "bbox_top":184,
+  "bbox_bottom":0,
+  "bbox_left":0,
+  "bbox_right":0,
+  "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"7e4b5d1a-6ad4-4084-94a0-2e9e6841ea95","name":"7e4b5d1a-6ad4-4084-94a0-2e9e6841ea95","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"c6acea1c-ef42-43d0-af9a-79122e17ff9f","name":"c6acea1c-ef42-43d0-af9a-79122e17ff9f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":585,
+  "height":64,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"a50f8545-e87e-4546-acbe-721f97175fff","blendMode":0,"displayName":"default","isLocked":false,"name":"a50f8545-e87e-4546-acbe-721f97175fff","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"08d369f8-06c9-4bdb-b277-bf0e6128126a","blendMode":0,"displayName":"default","isLocked":false,"name":"08d369f8-06c9-4bdb-b277-bf0e6128126a","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"Christian_Main_Character",
+  "name":"sKey",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -33,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"Christian_Main_Character",
+    "%Name":"sKey",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"Christian_Main_Character",
+    "name":"sKey",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"7e4b5d1a-6ad4-4084-94a0-2e9e6841ea95","path":"sprites/Christian_Main_Character/Christian_Main_Character.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"3cb44ebb-566f-422a-8a22-550997618b6d","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c6acea1c-ef42-43d0-af9a-79122e17ff9f","path":"sprites/sKey/sKey.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"e6f13c33-21df-4dee-b687-0da2c5645481","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":1009,
+  "width":64,
 }

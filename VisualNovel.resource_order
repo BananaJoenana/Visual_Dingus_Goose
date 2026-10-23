@@ -1,10 +1,11 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
-    {"name":"Christian_Main_Character","order":8,"path":"sprites/Christian_Main_Character/Christian_Main_Character.yy",},
     {"name":"sAustin","order":4,"path":"sprites/sAustin/sAustin.yy",},
     {"name":"sChatGPT","order":2,"path":"sprites/sChatGPT/sChatGPT.yy",},
+    {"name":"sChristian","order":8,"path":"sprites/sChristian/sChristian.yy",},
     {"name":"sEmerson","order":3,"path":"sprites/sEmerson/sEmerson.yy",},
+    {"name":"sKey","order":10,"path":"sprites/sKey/sKey.yy",},
     {"name":"sKwebbel","order":9,"path":"sprites/sKwebbel/sKwebbel.yy",},
     {"name":"sKwebbelPhase2","order":7,"path":"sprites/sKwebbelPhase2/sKwebbelPhase2.yy",},
     {"name":"sMexico","order":1,"path":"sprites/sMexico/sMexico.yy",},

@@ -51,12 +51,12 @@ function story_script() {
 		label("office"),
 		leave_all(),
 		goto_room(rmOffice),
-		narrate("The office is empty. Maybe there's something useful in here."),
+		narrate("Where is my house, I should look around somewhere.."),
 		explore(),
 
 		// Hotspots: clicking one with click = "desk" comes here
 		clicked("desk", once),
-		narrate("A small key is taped under the desk.", add_flag("has_key", 1)),
+		narrate("Is that my house?.", add_flag("has_key", 1)),
 		explore(),
 
 		clicked("door"),
@@ -79,7 +79,7 @@ function story_script() {
 
 		label("bad_end"),
 		enter("ChatGPT", "angry"),
-		say("Principal", "And just where do you think you're going?", "angry"),
+		say("ChatGPT", "And just where do you think you're going?", "angry"),
 		narrate("THE END"),
 		end_story()
 	]
