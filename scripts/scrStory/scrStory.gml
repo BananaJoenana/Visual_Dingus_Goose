@@ -29,24 +29,24 @@ function story_script() {
 		narrate("I need to find my way home, from this place, this hell called mexico."),
 		enter("Emerson"),
 		say("Emerson", "Hey Christian, its me Emerson. I've come to help you escape and get your dumb straw hat.", "angry"),
-		say("Emerson", "We've been trying to contact you about mousetrap, and the whereabouts of demond."),
-		enter("ChatGPT", "angry"),
-		say("ChatGPT", "There you are."),
+		say("Emerson", "I've been trying to reach you, but you've been out of the country for a while."),
+		enter("Christian", "angry"),
+		say("Christian", "Oh really?"),
 		shake(),
-		say("ChatGPT", "buy my subscription, now!", "angry"),
+		say("Christian", "Well, could you help me?", "angry"),
 		leave("ChatGPT"),
-		say("Emerson", "Who was that?", "sad"),
+		say("Emerson", "Yeah but at a cost, pay me in USD. The currency you have right now isn't well, USD.", "sad"),
 		choice(
 			"i dont know", "i forgot to renew my open ai subscription",
 			"dont even", "i forgot to renew my open ai subscription"
 		),
 
 		label("dont even"),
-		say("Emerson", "okay fine, but do you remember she hulk?", "happy", add_flag("trust", 1)),
+		say("Emerson", "okay.", "happy", add_flag("trust", 1)),
 		jump("office"),
 
 		label("i forgot to renew my open ai subscription"),
-		say("Emerson", "you aren't even smart enough to use open ai in the first place", "angry", add_flag("trust", -1)),
+		say("Emerson", "...", "angry", add_flag("trust", -1)),
 
 		label("office"),
 		leave_all(),
