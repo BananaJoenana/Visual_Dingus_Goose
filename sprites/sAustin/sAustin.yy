@@ -2,9 +2,9 @@
   "$GMSprite":"v2",
   "%Name":"sAustin",
   "bboxMode":0,
-  "bbox_bottom":889,
+  "bbox_bottom":959,
   "bbox_left":0,
-  "bbox_right":1186,
+  "bbox_right":1279,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -16,7 +16,7 @@
   ],
   "gridX":0,
   "gridY":0,
-  "height":890,
+  "height":960,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"c36e0b1c-bc18-4edb-b6e6-82d9a1d2ccb9","blendMode":0,"displayName":"default","isLocked":false,"name":"c36e0b1c-bc18-4edb-b6e6-82d9a1d2ccb9","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":1187,
+  "width":1280,
 }
