@@ -44,6 +44,7 @@
     {"id":{"name":"sKwebbelPhase2","path":"sprites/sKwebbelPhase2/sKwebbelPhase2.yy",},},
     {"id":{"name":"sMexico","path":"sprites/sMexico/sMexico.yy",},},
     {"id":{"name":"sSamAltman","path":"sprites/sSamAltman/sSamAltman.yy",},},
+    {"id":{"name":"sTJ_Phone_Call","path":"sprites/sTJ_Phone_Call/sTJ_Phone_Call.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
