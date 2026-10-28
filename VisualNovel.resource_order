@@ -1,6 +1,11 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
+    {"name":"rmHallway","order":1,"path":"rooms/rmHallway/rmHallway.yy",},
+    {"name":"rmStart","order":2,"path":"rooms/rmStart/rmStart.yy",},
+    {"name":"Room4","order":3,"path":"rooms/Room4/Room4.yy",},
+    {"name":"Room5","order":3,"path":"rooms/Room5/Room5.yy",},
+    {"name":"images__2_","order":2,"path":"sprites/images__2_/images__2_.yy",},
     {"name":"sAustin","order":4,"path":"sprites/sAustin/sAustin.yy",},
     {"name":"sChatGPT","order":2,"path":"sprites/sChatGPT/sChatGPT.yy",},
     {"name":"sChristian","order":8,"path":"sprites/sChristian/sChristian.yy",},
