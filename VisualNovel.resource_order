@@ -1,6 +1,7 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
+<<<<<<< HEAD
     {"name":"sAustin","order":3,"path":"sprites/sAustin/sAustin.yy",},
     {"name":"sChatGPT","order":1,"path":"sprites/sChatGPT/sChatGPT.yy",},
     {"name":"sChristian","order":6,"path":"sprites/sChristian/sChristian.yy",},
@@ -10,5 +11,22 @@
     {"name":"sKwebbelPhase2","order":5,"path":"sprites/sKwebbelPhase2/sKwebbelPhase2.yy",},
     {"name":"sSamAltman","order":4,"path":"sprites/sSamAltman/sSamAltman.yy",},
     {"name":"sTJ_Phone_Call","order":9,"path":"sprites/sTJ_Phone_Call/sTJ_Phone_Call.yy",},
+=======
+    {"name":"rmHallway","order":1,"path":"rooms/rmHallway/rmHallway.yy",},
+    {"name":"rmStart","order":2,"path":"rooms/rmStart/rmStart.yy",},
+    {"name":"Room4","order":3,"path":"rooms/Room4/Room4.yy",},
+    {"name":"Room5","order":3,"path":"rooms/Room5/Room5.yy",},
+    {"name":"images__2_","order":2,"path":"sprites/images__2_/images__2_.yy",},
+    {"name":"sAustin","order":4,"path":"sprites/sAustin/sAustin.yy",},
+    {"name":"sChatGPT","order":2,"path":"sprites/sChatGPT/sChatGPT.yy",},
+    {"name":"sChristian","order":8,"path":"sprites/sChristian/sChristian.yy",},
+    {"name":"sEmerson","order":3,"path":"sprites/sEmerson/sEmerson.yy",},
+    {"name":"sKey","order":10,"path":"sprites/sKey/sKey.yy",},
+    {"name":"sKwebbel","order":9,"path":"sprites/sKwebbel/sKwebbel.yy",},
+    {"name":"sKwebbelPhase2","order":7,"path":"sprites/sKwebbelPhase2/sKwebbelPhase2.yy",},
+    {"name":"sMexico","order":1,"path":"sprites/sMexico/sMexico.yy",},
+    {"name":"sSamAltman","order":5,"path":"sprites/sSamAltman/sSamAltman.yy",},
+    {"name":"sTJ_Phone_Call","order":1,"path":"sprites/sTJ_Phone_Call/sTJ_Phone_Call.yy",},
+>>>>>>> c037052afdd6883a90bba52884b04b8310c181fa
   ],
 }
