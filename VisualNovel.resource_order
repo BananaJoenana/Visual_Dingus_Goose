@@ -1,6 +1,7 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
+    {"name":"BeepBox_Song","order":1,"path":"sounds/BeepBox_Song/BeepBox_Song.yy",},
     {"name":"sAustin","order":4,"path":"sprites/sAustin/sAustin.yy",},
     {"name":"sBone","order":10,"path":"sprites/sBone/sBone.yy",},
     {"name":"sChatGPT","order":9,"path":"sprites/sChatGPT/sChatGPT.yy",},

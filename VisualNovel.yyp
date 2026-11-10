@@ -37,6 +37,7 @@
     {"id":{"name":"scrStory","path":"scripts/scrStory/scrStory.yy",},},
     {"id":{"name":"scrStoryCommands","path":"scripts/scrStoryCommands/scrStoryCommands.yy",},},
     {"id":{"name":"scrStoryEngine","path":"scripts/scrStoryEngine/scrStoryEngine.yy",},},
+    {"id":{"name":"BeepBox_Song","path":"sounds/BeepBox_Song/BeepBox_Song.yy",},},
     {"id":{"name":"images__2_","path":"sprites/images__2_/images__2_.yy",},},
     {"id":{"name":"sAustin","path":"sprites/sAustin/sAustin.yy",},},
     {"id":{"name":"sBone","path":"sprites/sBone/sBone.yy",},},
