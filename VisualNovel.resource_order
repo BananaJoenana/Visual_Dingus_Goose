@@ -1,7 +1,13 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
+    {"name":"rmBlandHighway","order":4,"path":"rooms/rmBlandHighway/rmBlandHighway.yy",},
+    {"name":"rmOffice","order":1,"path":"rooms/rmOffice/rmOffice.yy",},
+    {"name":"rmStart","order":3,"path":"rooms/rmStart/rmStart.yy",},
+    {"name":"rmTomThumb","order":2,"path":"rooms/rmTomThumb/rmTomThumb.yy",},
+    {"name":"Room6","order":1,"path":"rooms/Room6/Room6.yy",},
     {"name":"sAustin","order":4,"path":"sprites/sAustin/sAustin.yy",},
+    {"name":"sBlandHighway","order":2,"path":"sprites/sBlandHighway/sBlandHighway.yy",},
     {"name":"sBone","order":10,"path":"sprites/sBone/sBone.yy",},
     {"name":"sChatGPT","order":9,"path":"sprites/sChatGPT/sChatGPT.yy",},
     {"name":"sChristian","order":3,"path":"sprites/sChristian/sChristian.yy",},
