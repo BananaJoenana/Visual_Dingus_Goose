@@ -44,7 +44,8 @@ function story_script() {
 		say("Christian", "Aight, say less, we gon be in Texas in no time, don't even worry."),
 		say("TJ", "Also, I forwarded you the address to Emerson's workplace, you should be able to meetup with him here."),
 		goto_room(rmTomThumb)
-		say("Christian", "We here"),
+		enter("Christian"), 
+		
 		
 		
 		
