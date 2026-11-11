@@ -22,7 +22,7 @@ function story_script() {
 		trust: 0,
 		has_key: 0
 	}
-
+	
 	// The story, top to bottom
 	global.script = [
 		goto_room(rmHallway),
@@ -43,11 +43,11 @@ function story_script() {
 		say("TJ", "Beware, as there have been reports of this highway or road being dangerous, be sure to keep a watchful eye on the road, big C. You'll need it."),
 		say("Christian", "Aight, say less, we gon be in Texas in no time, don't even worry."),
 		say("TJ", "Also, I forwarded you the address to Emerson's workplace, you should be able to meetup with him here."),
-		goto_room(rmTomThumb)
-		enter("Christian"), 
-		
-		
-		
+		goto_room(rmTomThumb),
+		narrate("I...think this is it, no? This is where we were supposed to meet, right?"),
+		say("Emerson", "Alright, what's up?"),
+		say("Christian", "yeah, we ran into a bit of an issue though."),
+		say("Emerson", "and that would be?"),
 		
 		
 		say("Emerson", "Hey man, it's time to pay, I see you've bought some water and some other necessities."), 
