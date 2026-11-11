@@ -52,6 +52,7 @@
     {"id":{"name":"sMexico","path":"sprites/sMexico/sMexico.yy",},},
     {"id":{"name":"sMrBuck","path":"sprites/sMrBuck/sMrBuck.yy",},},
     {"id":{"name":"sSamAltman","path":"sprites/sSamAltman/sSamAltman.yy",},},
+    {"id":{"name":"sTitleScreen","path":"sprites/sTitleScreen/sTitleScreen.yy",},},
     {"id":{"name":"sTJ_Phone_Call","path":"sprites/sTJ_Phone_Call/sTJ_Phone_Call.yy",},},
   ],
   "resourceType":"GMProject",
