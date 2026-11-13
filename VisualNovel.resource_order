@@ -18,6 +18,7 @@
     {"name":"sKwebbelPhase2","order":1,"path":"sprites/sKwebbelPhase2/sKwebbelPhase2.yy",},
     {"name":"sMexico","order":7,"path":"sprites/sMexico/sMexico.yy",},
     {"name":"sMrBuck","order":11,"path":"sprites/sMrBuck/sMrBuck.yy",},
+    {"name":"sTitle_Screen","order":15,"path":"sprites/sTitle_Screen/sTitle_Screen.yy",},
     {"name":"sTitleScreen","order":12,"path":"sprites/sTitleScreen/sTitleScreen.yy",},
     {"name":"sTJ_Phone_Call","order":5,"path":"sprites/sTJ_Phone_Call/sTJ_Phone_Call.yy",},
     {"name":"sTomThumb","order":14,"path":"sprites/sTomThumb/sTomThumb.yy",},
