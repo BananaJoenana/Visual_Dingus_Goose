@@ -6,7 +6,9 @@ function story_script() {
 	character("Emerson", sEmerson, c_orange)
 	character("ChatGPT", sChatGPT, c_teal)
 	character("TJ", sTJ_Phone_Call, c_green)
-
+	character("Mr. Buck", sMrBuck, c_fuchsia)
+	character("kwebbelslop", sKwebbel, c_yellow)
+	
 	// Expressions: which frame of a character sprite each one shows.
 	// "normal" is used when a line doesn't name one.
 	// ADD HERE: a new expression, then draw that frame in every character sprite
@@ -35,11 +37,21 @@ function story_script() {
 		say("Christian", "I didn't even know you'd make an actual effort to come and try to reach me, but you always prevail, Emerson."),
 		enter("TJ"),
 		say("TJ", "Who is this? Oh right, Christian and Emerson, no?"),
+		leave("TJ"),
+		enter("Christian", "angry"),
 		say("Christian", "Yeah"),
 		say("Emerson", "yeah, we ran into a bit of an issue though."),
+		say("TJ", "Right...you can't exactly get back cause your poor, let me work my amazing hackerman skills."),
+		say("TJ", "There, I arranged for you to get a car. It should be availible for you to travel with now."),
+		leave("Emerson"),
+		leave("Christian"),
+		leave("TJ"),
 		goto_room(rmBlandHighway), 
-		say("Christian", "Alright, I managed to mysteriously source a car from god knows where, and now im on the road"),
+		say("Christian", "Thanks to TJ's efforts' were finally going. About time."),
+		enter("Emerson"),
 		say("Emerson", "Sounds good to me, when will you be near the United States?"),
+		leave("Emerson"),
+		enter("TJ"),
 		say("TJ", "Beware, as there have been reports of this highway or road being dangerous, be sure to keep a watchful eye on the road, big C. You'll need it."),
 		say("Christian", "Aight, say less, we gon be in Texas in no time, don't even worry."),
 		say("TJ", "Also, I forwarded you the address to Emerson's workplace, you should be able to meetup with him here."),
@@ -48,6 +60,39 @@ function story_script() {
 		say("Emerson", "Alright, what's up?"),
 		say("Christian", "yeah, we ran into a bit of an issue though."),
 		say("Emerson", "and that would be?"),
+		say("Christian", "I'm poor."),
+		say("Christian", "But, I have an Idea...it might work"),
+		say("Emerson", "And that would be?"),
+		say("Christian", "Let me make a phone call, I know exactly who to talk to."),
+		leave("Christian"),
+		narrate("you call mr. buck to help you out financially"),
+		enter("Mr. Buck"),
+		say("Mr. Buck", "You want money?"),
+		leave("Mr. Buck"),
+		enter("Christian"),
+		say("Christian", "yeah, do you know what I gotta do for it?"),
+		say("Mr. Buck", "yeah just answer me this one question"),
+		say("TJ", "will he preform when he has money right infront of him"),
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		
 		
 		say("Emerson", "Hey man, it's time to pay, I see you've bought some water and some other necessities."), 
