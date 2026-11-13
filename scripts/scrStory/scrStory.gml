@@ -73,11 +73,11 @@ function story_script() {
 		say("Christian", "yeah, do you know what I gotta do for it?"),
 		say("Mr. Buck", "yeah just answer me this one question"),
 		say("TJ", "will he preform when he has money right infront of him"),
-		
-		
-		
-		
-		
+		say("Mr. Buck", "What's the best halo?"),
+		say("Christian", "Halo 3"),	
+		say("Mr. Buck", "your right"),
+		say("Mr. Buck", "take this money to pay for your goods."),
+		narrate("you take the money and decide that you are gonna pay today instead of just taking it"),
 		
 		
 		
