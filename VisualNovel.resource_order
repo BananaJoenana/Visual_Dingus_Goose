@@ -6,6 +6,7 @@
     {"name":"rmStart","order":3,"path":"rooms/rmStart/rmStart.yy",},
     {"name":"rmTomThumb","order":2,"path":"rooms/rmTomThumb/rmTomThumb.yy",},
     {"name":"Room6","order":1,"path":"rooms/Room6/Room6.yy",},
+    {"name":"BeepBox_Song__1_","order":4,"path":"sounds/BeepBox_Song__1_/BeepBox_Song__1_.yy",},
     {"name":"sAustin","order":4,"path":"sprites/sAustin/sAustin.yy",},
     {"name":"sBlandHighway","order":13,"path":"sprites/sBlandHighway/sBlandHighway.yy",},
     {"name":"sBone","order":10,"path":"sprites/sBone/sBone.yy",},
