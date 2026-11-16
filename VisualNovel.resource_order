@@ -21,6 +21,8 @@
     {"name":"sMexico","order":7,"path":"sprites/sMexico/sMexico.yy",},
     {"name":"sMrBuck","order":11,"path":"sprites/sMrBuck/sMrBuck.yy",},
     {"name":"sTitleScreen","order":3,"path":"sprites/sTitleScreen/sTitleScreen.yy",},
+    {"name":"sTitle_Screen","order":15,"path":"sprites/sTitle_Screen/sTitle_Screen.yy",},
+    {"name":"sTitleScreen","order":12,"path":"sprites/sTitleScreen/sTitleScreen.yy",},
     {"name":"sTJ_Phone_Call","order":5,"path":"sprites/sTJ_Phone_Call/sTJ_Phone_Call.yy",},
   ],
 }
