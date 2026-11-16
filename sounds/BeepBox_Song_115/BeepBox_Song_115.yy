@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"BeepBox_Song_115",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":51.2,
+  "exportDir":"",
+  "name":"BeepBox_Song_115",
+  "parent":{
+    "name":"VisualNovel",
+    "path":"VisualNovel.yyp",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"BeepBox_Song_115.wav",
+  "volume":1.0,
+}
