@@ -78,22 +78,40 @@ function story_script() {
 		say("Mr. Buck", "your right"),
 		say("Mr. Buck", "take this money to pay for your goods."),
 		narrate("you take the money and decide that you are gonna pay today instead of just taking it"),
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+		say("Christian", "Alright, I've gotten the money necessary to make the purchase."),
+		say("Emerson", "Sounds good, let me ring ya up."),
+		narrate("you pay using the money from mr beast"),
+		say("Christian", "Let me make a phone call, I know exactly who to talk to."),
+		say("Christian", "Let me make a phone call, I know exactly who to talk to."),
+		say("Christian", "Let me make a phone call, I know exactly who to talk to."),
+		say("Christian", "Let me make a phone call, I know exactly who to talk to."),
+		say("Christian", "Let me make a phone call, I know exactly who to talk to."),
+		say("Christian", "Let me make a phone call, I know exactly who to talk to."),
+		say("Christian", "Let me make a phone call, I know exactly who to talk to."),
+		say("Christian", "Let me make a phone call, I know exactly who to talk to."),
+		say("Christian", "Let me make a phone call, I know exactly who to talk to."),
+		say("Christian", "Let me make a phone call, I know exactly who to talk to."),
+		say("Christian", "Let me make a phone call, I know exactly who to talk to."),
+		say("Christian", "Let me make a phone call, I know exactly who to talk to."),
+		say("Christian", "Let me make a phone call, I know exactly who to talk to."),
+		say("Christian", "Let me make a phone call, I know exactly who to talk to."),
+		say("Christian", "Let me make a phone call, I know exactly who to talk to."),
+		say("Christian", "Let me make a phone call, I know exactly who to talk to."),
+		say("Christian", "Let me make a phone call, I know exactly who to talk to."),
+		say("Christian", "Let me make a phone call, I know exactly who to talk to."),
+		say("Christian", "Let me make a phone call, I know exactly who to talk to."),
+		say("Christian", "Let me make a phone call, I know exactly who to talk to."),
+		say("Christian", "Let me make a phone call, I know exactly who to talk to."),
+		say("Christian", "Let me make a phone call, I know exactly who to talk to."),
+		say("Christian", "Let me make a phone call, I know exactly who to talk to."),
+		say("Christian", "Let me make a phone call, I know exactly who to talk to."),
+		say("Christian", "Let me make a phone call, I know exactly who to talk to."),
+		say("Christian", "Let me make a phone call, I know exactly who to talk to."),
+		say("Christian", "Let me make a phone call, I know exactly who to talk to."),
+		say("Christian", "Let me make a phone call, I know exactly who to talk to."),
+		say("Christian", "Let me make a phone call, I know exactly who to talk to."),
+		say("Christian", "Let me make a phone call, I know exactly who to talk to."),
+		say("Christian", "Let me make a phone call, I know exactly who to talk to."),
 		
 		say("Emerson", "Hey man, it's time to pay, I see you've bought some water and some other necessities."), 
 		say("Christian", "With what money?", "angry"),
